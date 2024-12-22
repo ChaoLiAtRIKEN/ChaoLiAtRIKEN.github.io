@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://yuchencong.github.io/1_0155-1.jpg" class="floatpic" width="360" height="480">
+<img src="https://ChaoLiAtRIKEN.github.io/1_0155-1.jpg" class="floatpic" width="360" height="480">
 
 Here is **Chao Li (李超, )**.
 
