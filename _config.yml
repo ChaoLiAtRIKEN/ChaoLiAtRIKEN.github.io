@@ -38,14 +38,15 @@ google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 links:
   - title: About Me
     url: /
-  - title: Publications
-    url: /publications/
-  - title: Projects
-    url: /projects/
-  - title: Service
-    url: /service/
-  - title: Software
-    url: /software/
+  # - title: Publications
+  #   url: /publications/
+  # - title: Projects
+  #   url: /projects/
+  # - title: Service
+  #   url: /service/
+  # - title: Software
+  #   url: /software/
+
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: Japan/Tokyo
