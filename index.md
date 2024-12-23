@@ -8,7 +8,7 @@ layout: page
 
 ## 李超 (Chao LI, り チョウ)
 
-*<ins>This page is still under development—apologies for the delay! Please feel free to contact me via email if you have any questions.</ins>*
+<!-- *<ins>This page is still under development—apologies for the delay! Please feel free to contact me via email if you have any questions.</ins>* -->
 
 I am currently an indefinite-term research scientist at [RIKEN](https://www.riken.jp), working in the **Center for Advanced Intelligence Project (AIP)** alongside Dr. [Qibin Zhao](https://qibinzhao.github.io) since 2021. Additionally, I am an affiliated researcher at the [Himeno-Sun Lab](https://himeno-sun-lab.github.io) at **Juntendo University**, one of Japan’s leading medical schools. My research spans several interdisciplinary fields, including **quantum tensor networks**, **machine learning (ML)**, and **medical neuroscience**, with a primary focus on advancing tensor network methodologies in the ML community. As a scientist, publications might be a critical avenue to evaluate my contribution to the research community. In recent years, my primary work has been featured in top computer science conferences, including ICML, NeurIPS, ICLR, CVPR, ECCV, AISTATS, AAAI. I have also collaborated with many outstanding researchers across countries, resulting in co-authored publications in high-impact journals such as IEEE T-PAMI, T-NNLS, T-IP, Neural Networks, and TMLR.
 
