@@ -6,7 +6,7 @@ layout: page
 
 <img src="https://ChaoLiAtRIKEN.github.io/1_0155-1.jpg" class="floatpic" width="360" height="480">
 
-# 李超 (Chao LI, り チョウ)
+**李超 (Chao LI, り チョウ)**
 
 *This page is still under development—apologies for the delay! Please feel free to contact me via email if you have any questions.*
 
@@ -14,23 +14,7 @@ I am currently an indefinite-term research scientist at [RIKEN](https://www.rike
 
 My research spans several interdisciplinary fields, including **tensor networks**, **machine learning (ML)**, **quantum computing**, and **computational neuroscience**, with a primary focus on advancing tensor network methodologies in the ML community.
 
-As a scientist, I value publications as a critical avenue for contributing to the research community. My primary work has been featured in top computer science conferences, including:
-
-- **ICML**
-- **NeurIPS**
-- **ICLR**
-- **CVPR**
-- **ECCV**
-- **AISTATS**
-- **AAAI**
-
-I have also collaborated with many outstanding researchers, resulting in co-authored publications in high-impact journals such as:
-
-- **IEEE T-PAMI**
-- **TMLR**
-- **IEEE T-NNLS**
-- **IEEE T-IP**
-- **Neural Networks**
+As a scientist, I value publications as a critical avenue for contributing to the research community. My primary work has been featured in top computer science conferences, including ICML, NeurIPS, ICLR, CVPR, ECCV, AISTATS, AAAI. I have also collaborated with many outstanding researchers, resulting in co-authored publications in high-impact journals such as IEEE T-PAMI, T-NNLS, T-IP, Neural Networks, and TMLR.
 
 I am actively involved in the academic community, regularly serving as a (senior) reviewer for prestigious conferences like ICML, NeurIPS, ICLR, AAAI, and IJCAI. In recognition of my contributions, I received the **RIKEN Ohbu Research Incentive Award** in 2020.
 
