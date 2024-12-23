@@ -55,7 +55,7 @@ If you are interested in any aspect of me, I am always open to discussions and c
 ---
 
 ## Research Interests
-*<ins>This part is  under development—apologies for the delay! You can find my recent publications from [Google Schloar](https://scholar.google.com/citations?user=i4JrumAAAAAJ&hl=zh-CN)</ins>*
+*<ins>This part is  under development—since there are too many (just kidding). You can find my recent publications from **[Google Schloar](https://scholar.google.com/citations?user=i4JrumAAAAAJ&hl=zh-CN)**</ins>*
 
 <!-- - Cyber-Physical System
 - Applied Machine Learning
