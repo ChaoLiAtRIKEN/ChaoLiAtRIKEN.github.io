@@ -10,7 +10,7 @@ layout: page
 
 *<ins>This page is still under development—apologies for the delay! Please feel free to contact me via email if you have any questions.</ins>*
 
-I am currently an indefinite-term research scientist at [RIKEN](https://www.riken.jp), working in the **Center for Advanced Intelligence Project (AIP)** alongside Dr. [Qibin Zhao](https://qibinzhao.github.io) since 2021. Additionally, I am an affiliated researcher at the [Himeno-Sun Lab](https://himeno-sun-lab.github.io) at **Juntendo University**, one of Japan’s leading medical schools. My research spans several interdisciplinary fields, including **tensor networks**, **machine learning (ML)**, **quantum computing**, and **computational neuroscience**, with a primary focus on advancing tensor network methodologies in the ML community. As a scientist, publications might be a critical avenue to evaluate my contribution to the research community. In recent years, yy primary work has been featured in top computer science conferences, including ICML, NeurIPS, ICLR, CVPR, ECCV, AISTATS, AAAI. I have also collaborated with many outstanding researchers across countries, resulting in co-authored publications in high-impact journals such as IEEE T-PAMI, T-NNLS, T-IP, Neural Networks, and TMLR.
+I am currently an indefinite-term research scientist at [RIKEN](https://www.riken.jp), working in the **Center for Advanced Intelligence Project (AIP)** alongside Dr. [Qibin Zhao](https://qibinzhao.github.io) since 2021. Additionally, I am an affiliated researcher at the [Himeno-Sun Lab](https://himeno-sun-lab.github.io) at **Juntendo University**, one of Japan’s leading medical schools. My research spans several interdisciplinary fields, including **tensor networks**, **machine learning (ML)**, **quantum computing**, and **computational neuroscience**, with a primary focus on advancing tensor network methodologies in the ML community. As a scientist, publications might be a critical avenue to evaluate my contribution to the research community. In recent years, my primary work has been featured in top computer science conferences, including ICML, NeurIPS, ICLR, CVPR, ECCV, AISTATS, AAAI. I have also collaborated with many outstanding researchers across countries, resulting in co-authored publications in high-impact journals such as IEEE T-PAMI, T-NNLS, T-IP, Neural Networks, and TMLR.
 
 <!-- I am actively involved in the academic community, regularly serving as a (senior) reviewer for prestigious conferences like ICML, NeurIPS, ICLR, AAAI, and IJCAI. In recognition of my contributions, I received the **RIKEN Ohbu Research Incentive Award** in 2020. -->
 
@@ -36,6 +36,7 @@ If you are interested in any aspect of me, I am always open to discussions and c
 
 ## Research Interests
 - [Google Schloar](https://scholar.google.com/citations?user=i4JrumAAAAAJ&hl=zh-CN)
+
 <!-- - Cyber-Physical System
 - Applied Machine Learning
 
