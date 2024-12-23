@@ -35,7 +35,7 @@ If you are interested in any aspect of me, I am always open to discussions and c
 ---
 
 ## News and Updates
-- **Jan. 2025**：I will attend *7th R-CCS International Symposium on January 23-24, 2025, Kobe, Japan*. The theme of this time is Fugaku and FugakuNEXT: Classical, Quantum, and AI.
+- **Jan. 2025**：I will attend *7th R-CCS International Symposium on January 23-24, 2025, Kobe, Japan*. The theme this time is Fugaku and FugakuNEXT: Classical, Quantum, and AI.
 - **Dec. 2024**：Thrilled to launch my personal homepage! Thanks to Yuchen for the technical support.
 - **Nov. 2024**：I have been recognized as a NeurIPS 2024 Top Reviewer. Thanks!
 - **Oct. 2024**：I'm happy to annoucne that our workhop [colorai](https://april-tools.github.io/colorai/) is accepted by AAAI 2025. 
