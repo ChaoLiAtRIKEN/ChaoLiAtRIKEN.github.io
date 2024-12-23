@@ -4,7 +4,7 @@ layout: page
 
 <!-- # About Me -->
 
-<img src="https://ChaoLiAtRIKEN.github.io/CAI2024_02.jpg" class="floatpic" width="360" height="480">
+<img src="https://ChaoLiAtRIKEN.github.io/113201734931851.jpg" class="floatpic" width="360" height="480">
 
 ## 李超 (Chao LI, り チョウ)
 
