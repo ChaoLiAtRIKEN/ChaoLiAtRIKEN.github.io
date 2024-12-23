@@ -69,8 +69,10 @@ My current research focuses on practical problems that artificial intelligence f
 
 My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society. -->
 
-## Onging Projects [Kaken link](https://nrid.nii.ac.jp/en/nrid/1000010869837/)
-- 日本学術振興会科学研究費助成事業（基盤研究(B)、題目：*Reliable Tensor-Network Fusion Approach to Medical Informatics: Novel Techniques and Benchmarks*, **研究代表者**、番号: 24K03005）プロジェクト（2024-2027）.
+---
+
+## Onging Projects 
+- 日本学術振興会科学研究費助成事業（基盤研究(B)、題目：*Reliable Tensor-Network Fusion Approach to Medical Informatics: Novel Techniques and Benchmarks*, **研究代表者**、番号: 24K03005）プロジェクト（2024-2027）. 
 - AMED 脳神経科学統合プログラム (Brain/MINDS 2.0, 個別重点研究課題, 題目：*脳の構造と活動データに基づくデジタル脳の機能化と脳アーキテクチャを考慮した深層学習モデルの構築*, 研究開発分担者) プロジェクト (2024-2026).
 - 理化学研究所 奨励課題事業（SDGs枠 [10/52]、題目：*量子にインスパイアされた機械学習の強化：マルチ代数テンソルネットワークを用いた新しいパラダイム*、**研究代表者**）(2024-2025)
 
