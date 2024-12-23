@@ -10,12 +10,12 @@ layout: page
 
 *<ins>This page is still under development—apologies for the delay! Please feel free to contact me via email if you have any questions.</ins>*
 
-I am currently an indefinite-term research scientist at [RIKEN](https://www.riken.jp), working in the **Center for Advanced Intelligence Project (AIP)** alongside Dr. [Qibin Zhao](https://qibinzhao.github.io) since 2021. Additionally, I am an affiliated researcher at the [Himeno-Sun Lab](https://himeno-sun-lab.github.io) at **Juntendo University**, one of Japan’s leading medical schools. My research spans several interdisciplinary fields, including **quantum tensor networks**, **machine learning (ML)**, and **computational neuroscience**, with a primary focus on advancing tensor network methodologies in the ML community. As a scientist, publications might be a critical avenue to evaluate my contribution to the research community. In recent years, my primary work has been featured in top computer science conferences, including ICML, NeurIPS, ICLR, CVPR, ECCV, AISTATS, AAAI. I have also collaborated with many outstanding researchers across countries, resulting in co-authored publications in high-impact journals such as IEEE T-PAMI, T-NNLS, T-IP, Neural Networks, and TMLR.
+I am currently an indefinite-term research scientist at [RIKEN](https://www.riken.jp), working in the **Center for Advanced Intelligence Project (AIP)** alongside Dr. [Qibin Zhao](https://qibinzhao.github.io) since 2021. Additionally, I am an affiliated researcher at the [Himeno-Sun Lab](https://himeno-sun-lab.github.io) at **Juntendo University**, one of Japan’s leading medical schools. My research spans several interdisciplinary fields, including **quantum tensor networks**, **machine learning (ML)**, and **medical neuroscience**, with a primary focus on advancing tensor network methodologies in the ML community. As a scientist, publications might be a critical avenue to evaluate my contribution to the research community. In recent years, my primary work has been featured in top computer science conferences, including ICML, NeurIPS, ICLR, CVPR, ECCV, AISTATS, AAAI. I have also collaborated with many outstanding researchers across countries, resulting in co-authored publications in high-impact journals such as IEEE T-PAMI, T-NNLS, T-IP, Neural Networks, and TMLR.
 
 <!-- I am actively involved in the academic community, regularly serving as a (senior) reviewer for prestigious conferences like ICML, NeurIPS, ICLR, AAAI, and IJCAI. In recognition of my contributions, I received the **RIKEN Ohbu Research Incentive Award** in 2020. -->
 
 
-If my research aligns with your interests, I am always open to discussions and collaborations. Feel free to reach out to me at **chao.li [at] riken.jp**.
+I am always open to discussions, collaborations, and internships. Feel free to reach me out at **chao.li [at] riken.jp**.
 
 <!-- Here is **李超 (Chao LI, り　チョウ)**.
 
@@ -35,7 +35,7 @@ If you are interested in any aspect of me, I am always open to discussions and c
 ---
 
 ## News and Updates
-- **Jan. 2025**：I will attend *7th R-CCS International Symposium on January 23-24, 2025, Kobe, Japan*.
+- **Jan. 2025**：I will attend *7th R-CCS International Symposium on January 23-24, 2025, Kobe, Japan*. The theme of this time is Fugaku and FugakuNEXT: Classical, Quantum, and AI.
 - **Dec. 2024**：Thrilled to launch my personal homepage! Thanks to Yuchen for the technical support.
 - **Nov. 2024**：I have been recognized as a NeurIPS 2024 Top Reviewer. Thanks!
 - **Oct. 2024**：I'm happy to annoucne that our workhop [colorai] (https://april-tools.github.io/colorai/) is accepted by AAAI 2025. 
@@ -55,7 +55,7 @@ If you are interested in any aspect of me, I am always open to discussions and c
 ---
 
 ## Research Interests
-- [Google Schloar](https://scholar.google.com/citations?user=i4JrumAAAAAJ&hl=zh-CN)
+*<ins>This part is  under development—apologies for the delay! You can find my recent publications from [Google Schloar](https://scholar.google.com/citations?user=i4JrumAAAAAJ&hl=zh-CN)</ins>*
 
 <!-- - Cyber-Physical System
 - Applied Machine Learning
@@ -68,3 +68,8 @@ My current research focuses on practical problems that artificial intelligence f
 - Applied Machine Learning
 
 My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society. -->
+
+## Onging Projects [Kaken link] (https://nrid.nii.ac.jp/en/nrid/1000010869837/)
+- 日本学術振興会科学研究費助成事業（基盤研究(B)、題目：*Reliable Tensor-Network Fusion Approach to Medical Informatics: Novel Techniques and Benchmarks*, **研究代表者**、番号: 24K03005）プロジェクト（2024-2027）.
+- AMED 脳神経科学統合プログラム (Brain/MINDS 2.0, 個別重点研究課題, 題目：*脳の構造と活動データに基づくデジタル脳の機能化と脳アーキテクチャを考慮した深層学習モデルの構築*, 研究開発分担者) プロジェクト (2024-2026).
+- 理化学研究所 奨励課題事業（SDGs枠 [10/52]、題目：*量子にインスパイアされた機械学習の強化：マルチ代数テンソルネットワークを用いた新しいパラダイム*、**研究代表者**）(2024-2025)
