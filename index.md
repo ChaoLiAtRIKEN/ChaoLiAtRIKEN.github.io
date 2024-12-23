@@ -71,9 +71,9 @@ My current research focuses on practical problems that artificial intelligence f
 
 ---
 
-## Onging Projects 
+## Ongoing Projects 
 - 日本学術振興会科学研究費助成事業（基盤研究(B)、題目：*Reliable Tensor-Network Fusion Approach to Medical Informatics: Novel Techniques and Benchmarks*, **研究代表者**、番号: 24K03005）プロジェクト（2024-2027）. 
 - AMED 脳神経科学統合プログラム (Brain/MINDS 2.0, 個別重点研究課題, 題目：*脳の構造と活動データに基づくデジタル脳の機能化と脳アーキテクチャを考慮した深層学習モデルの構築*, 研究開発分担者) プロジェクト (2024-2026).
 - 理化学研究所 奨励課題事業（SDGs枠 [10/52]、題目：*量子にインスパイアされた機械学習の強化：マルチ代数テンソルネットワークを用いた新しいパラダイム*、**研究代表者**）(2024-2025)
 
-As well, I'm also involved in [RIKEN-Quantum](https://rq.riken.jp), which supports me to explore interesting topics in quantum machine learning. Many thanks for the support from my PI Qibin.
+As well, I'm involved in [RIKEN-Quantum](https://rq.riken.jp), which supports me to explore interesting topics in quantum machine learning. Many thanks for the support from my PI Qibin.
