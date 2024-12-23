@@ -38,7 +38,7 @@ If you are interested in any aspect of me, I am always open to discussions and c
 - **Jan. 2025**：I will attend *7th R-CCS International Symposium on January 23-24, 2025, Kobe, Japan*. The theme of this time is Fugaku and FugakuNEXT: Classical, Quantum, and AI.
 - **Dec. 2024**：Thrilled to launch my personal homepage! Thanks to Yuchen for the technical support.
 - **Nov. 2024**：I have been recognized as a NeurIPS 2024 Top Reviewer. Thanks!
-- **Oct. 2024**：I'm happy to annoucne that our workhop [colorai] (https://april-tools.github.io/colorai/) is accepted by AAAI 2025. 
+- **Oct. 2024**：I'm happy to annoucne that our workhop [colorai](https://april-tools.github.io/colorai/) is accepted by AAAI 2025. 
 
 
 <!-- - **May 2024：**My bachelor thesis won the Annual Best Thesis Award (Top 1/300).
@@ -49,7 +49,7 @@ If you are interested in any aspect of me, I am always open to discussions and c
 
 <br>
 
-<!-- <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Thrilled to be an AAAI-UC Scholar at <a href="https://twitter.com/hashtag/AAAI24?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI24</a>, thanks to <a href="https://twitter.com/hashtag/AAAI?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI</a> &amp; <a href="https://twitter.com/hashtag/GoogleExploreCSR?src=hash&amp;ref_src=twsrc%5Etfw">#GoogleExploreCSR</a> for the sponsorship. Grateful for the knowledge gained and new friendships formed.<br><br>Wonderful trip in Vancouver. Looking forward to staying connected with all.<a href="https://twitter.com/hashtag/AAAI24?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI24</a> <a href="https://twitter.com/hashtag/Vancouver?src=hash&amp;ref_src=twsrc%5Etfw">#Vancouver</a> <a href="https://twitter.com/hashtag/GoogleExploreCSR?src=hash&amp;ref_src=twsrc%5Etfw">#GoogleExploreCSR</a> <a href="https://t.co/wUQUp8XlSM">pic.twitter.com/wUQUp8XlSM</a></p>&mdash; Hanlin CAI (seeking a PhD position 2025) (@lancecai2002) <a href="https://twitter.com/lancecai2002/status/1762210025173344260?ref_src=twsrc%5Etfw">February 26, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
+<!-- <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Thrilled to be an AAAI-UC Scholar at <a href="https://twitter.com/hashtag/AAAI24?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI24</a>, thanks to <a href="https://twitter.com/hashtag/AAAI?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI</a> &amp; <a href="https://twitter.com/hashtag/GoogleExploreCSR?src=hash&amp;ref_src=twsrc%5Etfw">#GoogleExploreCSR</a> for the sponsorship. Grateful for the knowledge gained and new friendships formed.<br><br>Wonderful trip in Vancouver. Looking forward to staying connected with all.<a href="https://twitter.com/hashtag/AAAI24?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI24</a> <a href="https://twitter.com/hashtag/Vancouver?src=has h&amp;ref_src=twsrc%5Etfw">#Vancouver</a> <a href="https://twitter.com/hashtag/GoogleExploreCSR?src=hash&amp;ref_src=twsrc%5Etfw">#GoogleExploreCSR</a> <a href="https://t.co/wUQUp8XlSM">pic.twitter.com/wUQUp8XlSM</a></p>&mdash; Hanlin CAI (seeking a PhD position 2025) (@lancecai2002) <a href="https://twitter.com/lancecai2002/status/1762210025173344260?ref_src=twsrc%5Etfw">February 26, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
 
 
 ---
@@ -69,7 +69,9 @@ My current research focuses on practical problems that artificial intelligence f
 
 My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society. -->
 
-## Onging Projects [Kaken link] (https://nrid.nii.ac.jp/en/nrid/1000010869837/)
+## Onging Projects [Kaken link](https://nrid.nii.ac.jp/en/nrid/1000010869837/)
 - 日本学術振興会科学研究費助成事業（基盤研究(B)、題目：*Reliable Tensor-Network Fusion Approach to Medical Informatics: Novel Techniques and Benchmarks*, **研究代表者**、番号: 24K03005）プロジェクト（2024-2027）.
 - AMED 脳神経科学統合プログラム (Brain/MINDS 2.0, 個別重点研究課題, 題目：*脳の構造と活動データに基づくデジタル脳の機能化と脳アーキテクチャを考慮した深層学習モデルの構築*, 研究開発分担者) プロジェクト (2024-2026).
 - 理化学研究所 奨励課題事業（SDGs枠 [10/52]、題目：*量子にインスパイアされた機械学習の強化：マルチ代数テンソルネットワークを用いた新しいパラダイム*、**研究代表者**）(2024-2025)
+
+As well, I'm also involved in [RIKEN-Quantum](https://rq.riken.jp), which supports me to explore interesting topics in quantum machine learning. Many thanks for the support from my PI Qibin.
