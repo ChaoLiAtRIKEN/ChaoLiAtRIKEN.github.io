@@ -35,7 +35,7 @@ If you are interested in any aspect of me, I am always open to discussions and c
 ---
 
 ## News and Updates
-- **Mar. 2025** There are sevearl trips in the month: AIP-Retreat (5-7); JNNS Brain/Mind workshop (10-12); Tianyuan Math. Seminar (16-22).
+- **Mar. 2025**: Several trips are scheduled this month: *AIP-Retreat* (5-7); *JNNS Brain/Mind workshop* (10-12); *Tianyuan Math. Seminar* (16-22).
 - **Jan. 2025**：I will attend *7th R-CCS International Symposium on January 23-24, 2025, Kobe, Japan*. The theme this time is Fugaku and FugakuNEXT: Classical, Quantum, and AI.
 - **Dec. 2024**：Thrilled to launch my personal homepage! Thanks to Yuchen for the technical support.
 - **Nov. 2024**：I have been recognized as a NeurIPS 2024 Top Reviewer. Thanks!
