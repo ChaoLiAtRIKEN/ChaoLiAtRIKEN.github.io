@@ -398,3 +398,49 @@ body.page #main .content {
   margin-left: auto !important;
   margin-right: auto !important;
 }
+
+/* ===== Patch: Layout & Typography Fixes ===== */
+
+/* 1) 避免超过 100% 的宽度导致换行/收缩 */
+#main article,
+#index{
+  float:none !important;
+  width:100% !important;
+  max-width:1200px !important;
+  margin:0 auto 2em !important;
+}
+
+/* 2) page 布局下的文章容器强制全宽居中 */
+body.page #main article{
+  float:none !important;
+  width:100% !important;
+  max-width:1200px !important;
+  margin:0 auto 2em !important;
+}
+
+/* 3) 段落两端对齐（避免给 nav/按钮套 justify） */
+p, .article-wrap p, #main article p{
+  text-align:justify !important;
+  text-justify:inter-word;
+}
+
+/* 4) 修正无效属性 & 极端标题字号 */
+html{ color:#333332; } /* 取代 font-color */
+h1{ font-size:3.333rem !important; } /* 移除 6000000px 的副作用 */
+.top-navigation li a{ text-decoration:none !important; }
+
+/* 5) 链接下划线仅限正文区域 */
+#main article p>a,
+#main article li>a,
+#main article em>a,
+#main article a>em{
+  border-bottom:1px dotted #b3b3b1;
+}
+
+/* 6) 通用容器：固定 max-width + 居中 */
+.container, .wide, #main, #main .content{
+  max-width:1200px !important;
+  width:100% !important;
+  margin-left:auto !important;
+  margin-right:auto !important;
+}
