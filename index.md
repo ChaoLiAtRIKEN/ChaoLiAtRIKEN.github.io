@@ -35,6 +35,8 @@ If you are interested in any aspect of me, I am always open to discussions and c
 ---
 
 ## News and Updates
+- **Nov. 2025**:  Honored to serve as an *Area Chair (AC)* for ICML 2026.
+- **Sept. 2025**:  Our paper [*"Parameter-efficient fine-tuning of 3d ddpm for mri image generation using tensor networks"*](https://link.springer.com/chapter/10.1007/978-3-032-04965-0_36) is  early accepted by MICCAI 2026.
 - **Apr. 2025**:  [IJCAI'25](https://2025.ijcai.org) Tutorial accepted. The topic is *AI Meets Algebra: Foundations and Frontiers*.
 - **Mar. 2025**:  The FY2025 Houga Collaboration Seed Fund has been awarded, in collaboration with Dr. [Xiyang Sun](https://albertlordsun.github.io/biography/) from RIKEN-CBS.
 - **Mar. 2025**: Two papers accepted at [*CVPR'25*](https://cvpr.thecvf.com)! Fantastic effort from all collaborators!
