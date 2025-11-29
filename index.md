@@ -37,7 +37,7 @@ If you are interested in any aspect of me, I am always open to discussions and c
 ## News and Updates
 - **Nov. 2025**:  [[ICML'26]](https://icml.cc/Conferences/2026) Honored to serve as an *Area Chair (AC)* .
 - **Sept. 2025**:  [[MICCAI'26]](https://conferences.miccai.org/2025/en/) Our paper [[link]](https://link.springer.com/chapter/10.1007/978-3-032-04965-0_36) is early accepted. Frist try to this community! Fantastic effort from all collaborators!
-- **Apr. 2025**:  [IJCAI'25](https://2025.ijcai.org) Tutorial accepted. The topic is *AI Meets Algebra: Foundations and Frontiers*.
+- **Apr. 2025**:  [[IJCAI'25]](https://2025.ijcai.org) Tutorial accepted. The topic is *AI Meets Algebra: Foundations and Frontiers*.
 - **Mar. 2025**:  The FY2025 Houga Collaboration Seed Fund has been awarded, in collaboration with Dr. [Xiyang Sun](https://albertlordsun.github.io/biography/) from RIKEN-CBS.
 - **Mar. 2025**: [[CVPR'25]](https://cvpr.thecvf.com) Two papers accepted! Fantastic effort from all collaborators!
 - **Mar. 2025**: Several trips are scheduled this month: *AIP-Retreat* (5-7); *JNNS Brain/Mind workshop* (10-12); *Tianyuan Math. Seminar* (16-22).
