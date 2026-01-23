@@ -35,8 +35,9 @@ If you are interested in any aspect of me, I am always open to discussions and c
 ---
 
 ## News and Updates
+- **Jan. 2026**:  [[AISTATS'26]](https://aistats.org/aistats2026/) Our paper [[arXiv]](https://arxiv.org/pdf/2510.22138) is accepted. AI interpretability via tensor networks! Fantastic effort from collaborators!
 - **Nov. 2025**:  [[ICML'26]](https://icml.cc/Conferences/2026) Honored to serve as an *Area Chair (AC)* .
-- **Sept. 2025**:  [[MICCAI'26]](https://conferences.miccai.org/2025/en/) Our paper [[link]](https://link.springer.com/chapter/10.1007/978-3-032-04965-0_36) is early accepted. Frist try to this community! Fantastic effort from all collaborators!
+- **Sept. 2025**:  [[MICCAI'26]](https://conferences.miccai.org/2025/en/) Our paper [[link]](https://link.springer.com/chapter/10.1007/978-3-032-04965-0_36) is early accepted. PEFT via tensor networks! Frist try to this community! Fantastic effort from all collaborators!
 - **Apr. 2025**:  [[IJCAI'25]](https://2025.ijcai.org) Tutorial accepted. The topic is *AI Meets Algebra: Foundations and Frontiers*.
 - **Mar. 2025**:  The FY2025 Houga Collaboration Seed Fund has been awarded, in collaboration with Dr. [Xiyang Sun](https://albertlordsun.github.io/biography/) from RIKEN-CBS.
 - **Mar. 2025**: [[CVPR'25]](https://cvpr.thecvf.com) Two papers accepted! Fantastic effort from all collaborators!
