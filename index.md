@@ -35,6 +35,8 @@ If you are interested in any aspect of me, I am always open to discussions and c
 ---
 
 ## News and Updates
+- **Mar. 2026**:  I was invited to attend [[Dagstuhl Seminars]](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/26102) on the topic of "Tensor Factorizations Meet Probabilistic Circuits" and gave a talk.
+
 - **Jan. 2026**:  [[AISTATS'26]](https://aistats.org/aistats2026/) Our paper [[arXiv]](https://arxiv.org/pdf/2510.22138) is accepted. AI interpretability via tensor networks! Fantastic effort from collaborators!
 - **Nov. 2025**:  [[ICML'26]](https://icml.cc/Conferences/2026) Honored to serve as an *Area Chair (AC)* .
 - **Sept. 2025**:  [[MICCAI'26]](https://conferences.miccai.org/2025/en/) Our paper [[link]](https://link.springer.com/chapter/10.1007/978-3-032-04965-0_36) is early accepted. PEFT via tensor networks! Frist try to this community! Fantastic effort from all collaborators!
@@ -83,4 +85,5 @@ My current research focuses on practical problems that artificial intelligence f
 - AMED 脳神経科学統合プログラム (Brain/MINDS 2.0, 個別重点研究課題, 題目：*脳の構造と活動データに基づくデジタル脳の機能化と脳アーキテクチャを考慮した深層学習モデルの構築*, 研究開発分担者) プロジェクト (2024-2026).
 - 理化学研究所 奨励課題事業（SDGs枠 [10/52]、題目：*量子にインスパイアされた機械学習の強化：マルチ代数テンソルネットワークを用いた新しいパラダイム*、**研究代表者**）(2024-2025)
 
-As well, I'm involved in [RIKEN-Quantum](https://rq.riken.jp), which supports me to explore interesting topics in quantum machine learning. Many thanks for the support from my PI Qibin.
+
+<!-- As well, I'm involved in [RIKEN-Quantum](https://rq.riken.jp), which supports me to explore interesting topics in quantum machine learning. Many thanks for the support from my PI Qibin. -->
