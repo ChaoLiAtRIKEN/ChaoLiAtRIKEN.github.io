@@ -38,7 +38,6 @@ If you are interested in any aspect of me, I am always open to discussions and c
 - **Mar. 2026**: [[ICML'26]](https://icml.cc/Conferences/2026) I'm happy to annoucne that our workshop [colorai v2](https://grigoris.ece.wisc.edu/workshops/colorai-icml-2026/) is accepted by ICML 2026.
 - **Mar. 2026**:  [[Neurips'26]](https://neurips.cc) Honored to serve as an *Area Chair (AC)* .
 - **Mar. 2026**:  I was invited to attend [[Dagstuhl Seminars]](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/26102) on the topic of "Tensor Factorizations Meet Probabilistic Circuits" and gave a talk.
-
 - **Jan. 2026**:  [[AISTATS'26]](https://aistats.org/aistats2026/) Our paper [[arXiv]](https://arxiv.org/pdf/2510.22138) is accepted. AI interpretability via tensor networks! Fantastic effort from collaborators!
 - **Nov. 2025**:  [[ICML'26]](https://icml.cc/Conferences/2026) Honored to serve as an *Area Chair (AC)* .
 - **Sept. 2025**:  [[MICCAI'26]](https://conferences.miccai.org/2025/en/) Our paper [[link]](https://link.springer.com/chapter/10.1007/978-3-032-04965-0_36) is early accepted. PEFT via tensor networks! Frist try to this community! Fantastic effort from all collaborators!
