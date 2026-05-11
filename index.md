@@ -35,6 +35,7 @@ If you are interested in any aspect of me, I am always open to discussions and c
 ---
 
 ## News and Updates
+- **May. 2026**: [[ICML'26]](https://icml.cc/Conferences/2026) Two papers are accepted. One for tensor networks and one for robustness!
 - **Mar. 2026**: [[ICML'26]](https://icml.cc/Conferences/2026) I'm happy to annoucne that our workshop [colorai v2](https://grigoris.ece.wisc.edu/workshops/colorai-icml-2026/) is accepted by ICML 2026.
 - **Mar. 2026**:  [[Neurips'26]](https://neurips.cc) Honored to serve as an *Area Chair (AC)* .
 - **Mar. 2026**:  I was invited to attend [[Dagstuhl Seminars]](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/26102) on the topic of "Tensor Factorizations Meet Probabilistic Circuits" and gave a talk.
