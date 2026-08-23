@@ -35,9 +35,11 @@ If you are interested in any aspect of me, I am always open to discussions and c
 ---
 
 ## News and Updates
+- **Aug. 2026**: [[UAI'26]](https://www.auai.org/uai2026/) Attended the 9th [TPM](https://tractable-probabilistic-modeling.github.io/tpm2026/) workshop and gave an invited talk on probabilistic modeling with tensor networks.
+- **July 2026**: [AAAI'27, ICLR'27] Serving as a Senior Program Committee (SPC) member for AAAI 2027 and an Area Chair (AC) for ICLR 2027.
 - **May. 2026**: [[ICML'26]](https://icml.cc/Conferences/2026) Two papers are accepted. One for tensor networks and one for robustness!
 - **Mar. 2026**: [[ICML'26]](https://icml.cc/Conferences/2026) I'm happy to annoucne that our workshop [colorai v2](https://grigoris.ece.wisc.edu/workshops/colorai-icml-2026/) is accepted by ICML 2026.
-- **Mar. 2026**:  [[Neurips'26]](https://neurips.cc) Honored to serve as an *Area Chair (AC)* .
+- **Mar. 2026**:  [[Neurips'26]](https://neurips.cc) Honored to serve as an *Area Chair (AC, ED Track)* .
 - **Mar. 2026**:  I was invited to attend [[Dagstuhl Seminars]](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/26102) on the topic of "Tensor Factorizations Meet Probabilistic Circuits" and gave a talk.
 - **Jan. 2026**:  [[AISTATS'26]](https://aistats.org/aistats2026/) Our paper [[arXiv]](https://arxiv.org/pdf/2510.22138) is accepted. AI interpretability via tensor networks! Fantastic effort from collaborators!
 - **Nov. 2025**:  [[ICML'26]](https://icml.cc/Conferences/2026) Honored to serve as an *Area Chair (AC)* .
